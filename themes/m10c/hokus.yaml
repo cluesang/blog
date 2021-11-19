@@ -1,4 +1,4 @@
-hugover: 0.69.0
+hugover: extended_0.89.4
 serve:
   - key: default
     config: config.yaml
